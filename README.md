@@ -1,2 +1,3 @@
 # explore_github
-My forst Github Repo. Will use to explore and learn
+My first Github Repo. Will use to explore and learn
+My Name is Reggie and I am here to learn, explore and be a hero
